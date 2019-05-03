@@ -1,0 +1,35 @@
+.aclass{
+  border:3px solid black;
+  color: #fff;
+  background-color:#5F7450
+}
+.attractions {
+  background-color:#75B09C;
+  margin-top: 50px;
+}
+  /* <!what would happen if it was without background> */
+
+.light-blue {
+  background-color:#D7FFBE
+}
+
+.a{color:black}
+
+.navbar {
+  background:#A0CA92;
+}
+.nav-link,
+.navbar-brand {
+  color: #fff;
+  cursor: pointer;
+}
+.nav-link {
+  margin-right: 1em !important;
+}
+.nav-link:hover {
+  color: #000;
+}
+.navbar-collapse {
+  justify-content: flex-end;
+}
+.links {color: #C0C0C0}
